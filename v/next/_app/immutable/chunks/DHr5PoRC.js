@@ -1,0 +1,1 @@
+import"./M7QI--X0.js";import{s,r as p}from"./iKT9cjVH.js";import"./lGwIKZ5O.js";import{I as a}from"./gFRHKH8f.js";function f(t,o){let r=p(o,["$$slots","$$events","$$legacy"]);const e={name:"chevrons-right-left",size:24,node:[["path",{d:"m20 17-5-5 5-5"}],["path",{d:"m4 17 5-5-5-5"}]]};a(t,s(()=>r,{get icon(){return e}}))}export{f as default};
